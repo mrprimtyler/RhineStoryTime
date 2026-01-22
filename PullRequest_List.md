@@ -7,3 +7,6 @@ Name: Nick Hayter
 
 PR Link: https://github.com/fanayaal/BlackForest-SER316-Story/pull/10
 
+Name: Tyler Prim
+
+https://github.com/fanayaal/BlackForest-SER316-Story/pull/11
